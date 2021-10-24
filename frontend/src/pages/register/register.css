@@ -1,0 +1,56 @@
+.register{
+    height: calc(100vh-50px);                      /*rgba(255 255 255 0.5)*/ 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: url(https://source.unsplash.com/1600x900/?rivers,universe,nature,flowers);
+    background-size: cover;
+    width: 100%;
+
+}
+.registerTitle{
+    font-size: 50px;
+    color:white;
+}
+.registerForm{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+.registerForm>label{
+    margin: 10px 0;
+    color:white;
+    
+}
+
+.registerInput{
+    padding: 10px;
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+}
+.registerButton{
+    margin-top: 20px;
+    margin-bottom: 280px;
+    cursor: pointer;
+    background-color:teal;
+    border: white;
+    border: none;
+    border-radius: 10px;
+    padding: 7.5px;
+}
+
+.registerLoginButton{
+    position: absolute;
+    top: 60px;
+    right: 20px;
+    color: white;
+    background-color:tomato;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+
+}

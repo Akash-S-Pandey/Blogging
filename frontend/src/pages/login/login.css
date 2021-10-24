@@ -1,0 +1,66 @@
+.login{
+    height: calc(100vh-50px);                      /*rgba(255 255 255 0.5)*/ 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: url(https://source.unsplash.com/1600x900/?nature,mountains,rivers,universe,planets);
+    background-size: cover;
+    width: 100%;
+
+}
+.loginTitle{
+    font-size: 50px;
+    color:white;
+}
+.loginForm{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+.loginForm>label{
+    margin: 10px 0;
+    color:white;
+    
+}
+
+.loginInput{
+
+    padding: 10px;
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+}
+.Password{
+
+    justify-content: center;
+    margin-top: 15px;
+    text-align: center;
+    color: rgb(230, 225, 225);
+    display: flex;
+}
+
+.loginButton{
+    margin-top: 15px;
+    margin-bottom: 300px;
+    cursor: pointer;
+    background-color:tomato;
+    border: white;
+    border: none;
+    border-radius: 10px;
+    padding: 7.5px;
+}
+
+.loginRegisterButton{
+    position: absolute;
+    top: 60px;
+    right: 20px;
+    color: white;
+    background-color:teal;
+    padding: 8px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
