@@ -8,7 +8,7 @@ export default function Header() {
                 <span className="headerTitleSm">Welcome to iCoder</span>
                 <span className='headerTitleLg'> iCoder's Blog</span>
             </div>
-            <img className="headerImg"   src ="https://source.unsplash.com/1600x900/?Nature,Oceans,france," alt="loading.."/>
+            <img className="headerImg"   src ="https://source.unsplash.com/1600x900/?Laptop,Code,Technology" alt="loading.."/>
         
         </div>
     )

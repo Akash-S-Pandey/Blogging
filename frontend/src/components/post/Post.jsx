@@ -4,32 +4,24 @@ import './post.css'
 export default function Post() {
     return (
         <div className='post'>
-            <img src="https://source.unsplash.com/1600x900/?nature," alt="" className="postImg" />
+            <img src="https://source.unsplash.com/1600x900/?Hackathon,programing" alt="" className="postImg" />
           <div className="postInfo">
               <div className="postCats">
                   <span className="postCat">Music</span>
                   <span className="postCat">Life</span>
               </div>
-              <span className="postTitle">“Nature is not a place to visit. It is home.”</span>
+              <span className="postTitle">PreparationTech At 2021 CogX Festival
+June 15, 2021</span>
               <hr/>
               <span className="postDate">1 hour ago</span>
           </div>
-          <div className="postDesc">In a very real sense, mountains and valleys, the seas and the skies, 
-          the sun and the earth, the trees and the flowers constitute our home, our natural habitat.
-
-Growing up in the modern developed world we can easily come to believe that towns and cities – 
-the urban and artificial environment – is where we naturally belong. But our brains and bodies,
- which evolved over thousands of years, were designed by and designed for an environment very different to the one we live in now.
-
-Throughout our evolutionary history we lived in very close connection to the land, with a very close kinship
- with other creatures. Our physiological system evolved to survive in wild, natural environments and developed a love and kinship for these places that lives on in our DNA.
-
-This connection with the land combined with the kinship we would have felt with other living things that shared
- the land as their home has hardwired in us a strong sense of the natural world as ‘home’, and the importance of connection with all of life as being essential to our well-being.
-
-This ‘love for life’ or biophilia, is a basic need in human beings. But unfortunately, because of the increasingly
-rbanised nature of the modern world, many of us have become disconnected from nature and suffer from what Richard Louv calls ‘Nature-deficit disorder’. We have been left deprived
- of something that was a source of so much spiritual sustenance and nourishment since we first walked the earth, a loss which has undoubtedly effected our collective health and well-being</div>
+          <div className="postDesc">Information Technology is the current big thing and businesses are embracing it on a vast scale. People from all walks of life are intrigued by the way IT is progressing at an overwhelming rate and transforming the digital world. If you are someone who is keen to learn about the newest technologies, digital industry, and the web in general, then keep reading. Here, we have rounded up fifteen best information technology blogs, which bring to you the latest in the field from across the world.
+Mashable — mashable.com
+One of the most influential blogs on technology that we have today, Mashable provides information about all thing tech, digital culture, and entertainment.
+TechCrunch — techcrunch.com
+TechCrunch provides interesting technology news and a reservoir of information on startups and Internet companies. The blog also gives reviews on new Internet products.
+The Next Web — thenextweb.com
+Get tech news, learn about technology trends, and explore the world of gadgets with detailed, genuine reviews from the experts. Do all this and much more by following TNW.</div>
         </div>
     )
 }

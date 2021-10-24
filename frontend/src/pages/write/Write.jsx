@@ -5,7 +5,7 @@ import './write.css'
 export default function Write() {
     return (
         <div className="write">
-            <img src="https://source.unsplash.com/1600x900/?caifornia,nature,beach" alt="loading" className="writeImg"/>
+            <img src="https://source.unsplash.com/1600x900/?Technology,Code" alt="loading" className="writeImg"/>
             <form className="writeForm">
                 <div className="writeFormGroup">
                     <label htmlFor="fileInput"><i className=" writeIcon fas fa-plus"></i></label>

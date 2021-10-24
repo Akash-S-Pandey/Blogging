@@ -6,9 +6,10 @@ export default function Sidebar() {
         <div className='sidebar'>
             <div className="sidebarItem">
                 <span className="sidebarTitle">ABOUT ME</span>
-                <img className="sidebarImg" src="https://source.unsplash.com/1600x900/?Nature,mountains,Assam,nepal" alt=""  />
-                <p>The health benefits of mindfulness practice and time spent connecting with nature are now scientifically well established. They are complimentary and are the foundation for my own personal health and well-being. I am passionate about sharing this message with others and helping them to experience the peace and beauty that is always waiting for us outside in the natural world</p>
-
+                <img className="sidebarImg" src="https://source.unsplash.com/1600x900/?laptop,billgates" alt=""  />
+                <p></p>Information Technology is the current big thing and businesses are embracing it on a vast scale. People from all walks of life are intrigued by the way IT is progressing at an overwhelming rate and transforming the digital world. If you are someone who is keen to learn about the newest technologies, digital industry, and the web in general, then keep reading. Here, we have rounded up fifteen best information technology blogs, which bring to you the latest in the field from across the world.
+Mashable — mashable.com
+One of the most influential blogs on technology that we have orm
             </div>
             <div className="sidebarItem">
                 <span className="sidebarTitle">CATEGORIES</span>

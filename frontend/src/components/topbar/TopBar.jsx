@@ -4,7 +4,7 @@ import './topbar.css'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 export default function TopBar() {                                
-    const user =true;
+    const user =false;
     return (
         <div className="top ">
             <div className="topLeft">
